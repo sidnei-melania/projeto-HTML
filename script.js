@@ -1,6 +1,6 @@
 // object {}
 const atividade = {
-    nome: "Almoço",
+    nome: 'Almoço',
     data: new Date("2024-07-08 10:00"),
     finalizada: true
   }
