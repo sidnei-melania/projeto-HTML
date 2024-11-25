@@ -1,6 +1,6 @@
 // object {}
 const atividade = {
-    nome: 'Almoço',
+    nome: "Almoço",
     data: new Date("2024-07-08 10:00"),
     finalizada: true
   }
@@ -23,10 +23,10 @@ const atividade = {
   // arrow function
   const criarItemDeAtividade = (atividade) => {
   
-    let input = '<input type="checkbox" '
+    let input = input type = "checkbox" '
   
     if(atividade.finalizada) {
-      input += 'checked'
+      input += "checked"
     }
   
     input += '>'
