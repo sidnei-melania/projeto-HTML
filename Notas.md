@@ -1,7 +1,7 @@
 HTML
 - Hypertext
 - Markup
-  - tags, elementos
+- tags, elementos
 - Language
 
 CSS 
