@@ -1,4 +1,4 @@
-// object {}
+// objeto {}
 const atividade ={
     nome: "Almoço",
     data: new Date("2024-07-08 10:00"),
@@ -9,8 +9,8 @@ const atividade ={
   const atividades = [
     atividade,
     {
-      nome:"Academia em grupo",
-      data:new Date("2024-07-09 12:00"),
+      nome: "Academia em grupo",
+      data: new Date("2024-07-09 12:00"),
       finalizada: false
     },
     {
