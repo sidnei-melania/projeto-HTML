@@ -15,12 +15,19 @@ JavaScript
 
 - Comentários
 - Declaração de variáveis (const, let)
+ 
 - Operadores (atribuição, concatenação, matemáticos )
+  
 - Tipos de dados (string, number, boolean, Date)
+  
 - Estrutura de dados (functions, object, array)
+  
 - Controle de fluxo (if/else)
+  
 - Estrutura de repetição (for)
+  
 - Manipulação e gestão dos dados
+  
     - Conversão de dados
 
 
