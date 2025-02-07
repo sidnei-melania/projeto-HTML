@@ -1,13 +1,16 @@
 HTML
+
 - Hypertext
 - Markup
 - tags, elementos
 - Language
 
 CSS 
+
 - Cascading Style Sheet
 
 JavaScript
+
 - interpretada pelo browser
 - dinâmica
 - orientado a objeto
