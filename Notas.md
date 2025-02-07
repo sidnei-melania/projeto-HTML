@@ -35,6 +35,7 @@ JavaScript
 
 
 Fases da resolução de um problema
+
 01. Coletar os dados
 02. Processar os dados
 03. Apresentar os dados
