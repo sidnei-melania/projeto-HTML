@@ -21,9 +21,9 @@ const atividade={
   ]
   
   // arrow function
-  const criarItemDeAtividade = (atividade) => {
+  const criarItemDeAtividade=(atividade) => {
   
-    let input=input type = "checkbox" '
+    let input=input type="checkbox" '
   
     if(atividade.finalizada) {
       input += "checked"
